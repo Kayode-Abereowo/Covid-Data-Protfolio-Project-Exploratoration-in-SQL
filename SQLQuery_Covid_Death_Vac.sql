@@ -1,3 +1,10 @@
+/*
+Covid 19 Data Exploration 
+
+Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Sub Queries, Converting Data Types etc
+
+*/
+
 USE [Portfolio Project]
 --Query the list of columns in the Coviddeath and CovidVacinnation table
 Select *
